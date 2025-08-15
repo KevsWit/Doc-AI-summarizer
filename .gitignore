@@ -1,5 +1,4 @@
 *.env
 *.pyc
 /chroma_db
-/document_cache
 app.log
